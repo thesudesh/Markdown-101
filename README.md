@@ -92,3 +92,9 @@ ___
 
 ![Star Badge](https://img.shields.io/github/stars/iBootcamp/batch-2021-june)<br>
  ![i voted](https://emoji.gg/assets/emoji/6340_amongus_sus.png)
+ <br>
+ ---
+ ---
+
+# Contributor:
+- [Sudesh Acharya](https://github.com/thesudesh)
